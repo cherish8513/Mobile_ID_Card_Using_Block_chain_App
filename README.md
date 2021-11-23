@@ -1,6 +1,8 @@
 # Mobile_ID_Card_Using_Block_chain_App
-#tools : android
-#content 
+# tools : android
+
+# content 
+
 ### 카메라로 찍은 주민등록증의 정보를 OCR API를 이용해서 정보를 뽑아내
 ### Node.js와 통신해서 배포된 스마트 컨트랙트에 정보를 저장하고
 ### 임의로 생성한 개인키를 db에 저장하는 어플리케이션입니다.
